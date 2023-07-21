@@ -23,7 +23,7 @@ release and can be downloaded from one of those URLs directly.
 1. Go to the `Cluster Drivers` management screen in Rancher and click `Add Cluster Driver`.
 2. Enter Download URL:
     1) Using exact version: `https://github.com/opentelekomcloud/kontainer-engine-driver-otc/releases/download/VERSION/kontainer-engine-driver-otc-VERSION-linux-amd64.tgz`
-    2) Using the latest version: `https://otc-rancher.obs.eu-de.otc.t-systems.com/cluster/driver/latest/kontainer-engine-driver-otccce_linux_amd64.tar.gz`
+    2) Using the latest version: `https://otc-rancher.obs.eu-de.otc.t-systems.com/cluster/driver/latest/kontainer-engine-driver-mydriver_linux_amd64.tar.gz`
 3. Enter the Custom UI URL: `https://otc-rancher.obs.eu-de.otc.t-systems.com/cluster/ui/latest/component.js`.
 4. Add Whitelist Domains with value `*.otc.t-systems.com`.
 5. Click `Create`, and wait for driver status to be `Active`.

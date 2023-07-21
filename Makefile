@@ -1,7 +1,7 @@
 export GO111MODULE=on
 export PATH:=/usr/local/go/bin:$(PATH)
 exec_path := /usr/local/bin/
-exec_name := kontainer-engine-driver-otc
+exec_name := kontainer-engine-driver-mydriver
 
 VERSION := 0.2.1
 
